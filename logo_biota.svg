@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:osb="http://www.openswatchbook.org/uri/2009/osb"
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="126.83677"
+   height="30.671793"
+   viewBox="0 0 126.83679 30.671793"
+   version="1.1"
+   id="svg18"
+   sodipodi:docname="logo_biota3.svg"
+   inkscape:version="0.92.1 r15371"
+   style="enable-background:new"
+   inkscape:export-filename="C:\MS4W\apps\biota\materialien\logos_biota\logo_biota3.png"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96">
+  <metadata
+     id="metadata22">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>logo</dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="3840"
+     inkscape:window-height="2066"
+     id="namedview20"
+     showgrid="false"
+     inkscape:zoom="11.238095"
+     inkscape:cx="-5.4363063"
+     inkscape:cy="16.80989"
+     inkscape:window-x="-11"
+     inkscape:window-y="-11"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="g6140"
+     fit-margin-left="0.6"
+     fit-margin-top="1.5"
+     fit-margin-bottom="1"
+     fit-margin-right="0.6"
+     inkscape:showpageshadow="false" />
+  <!-- Generator: Sketch 3.3.3 (12081) - http://www.bohemiancoding.com/sketch -->
+  <title
+     id="title2">logo</title>
+  <desc
+     id="desc4">Created with Sketch.</desc>
+  <defs
+     id="defs6">
+    <linearGradient
+       id="linearGradient5976"
+       osb:paint="solid">
+      <stop
+         style="stop-color:#53b6ff;stop-opacity:1;"
+         offset="0"
+         id="stop5974" />
+    </linearGradient>
+  </defs>
+  <g
+     inkscape:groupmode="layer"
+     id="layer5"
+     inkscape:label="Schriftzug 2"
+     style="display:inline"
+     transform="translate(-3.5999998,-4.7878754)">
+    <g
+       id="g6130">
+      <g
+         id="g6151">
+        <g
+           id="g6140">
+          <g
+             id="g6390"
+             transform="translate(-2)">
+            <path
+               d="M 98.164978,19.20507 H 120.43562 V 41.701811 H 98.164978 V 31.276729 Z"
+               style="fill:#6fb978;fill-opacity:1;stroke:#6fb978;stroke-width:3.50500011;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;enable-background:new"
+               transform="rotate(-5.9,14.777349,-38.151811)"
+               id="rect4550"
+               inkscape:connector-curvature="0"
+               inkscape:export-xdpi="96"
+               inkscape:export-ydpi="96" />
+          </g>
+          <g
+             id="text4515-9"
+             style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1"
+             aria-label="biota"
+             inkscape:export-xdpi="96"
+             inkscape:export-ydpi="96">
+            <path
+               inkscape:connector-curvature="0"
+               id="path4684"
+               style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';fill:#214478"
+               d="m 13.5125,27.937498 q 1.796875,0 2.734375,-1.3125 0.953125,-1.3125 0.953125,-3.8125 0,-2.5 -0.953125,-3.8125 -0.9375,-1.3125 -2.734375,-1.3125 -1.796875,0 -2.765625,1.328125 -0.953125,1.3125 -0.953125,3.796875 0,2.484375 0.953125,3.8125 0.96875,1.3125 2.765625,1.3125 z M 9.79375,16.609373 q 1.15625,-1.53125 2.5625,-2.25 1.40625,-0.734375 3.234375,-0.734375 3.234375,0 5.3125,2.578125 2.078125,2.5625 2.078125,6.609375 0,4.046875 -2.078125,6.625 -2.078125,2.5625 -5.3125,2.5625 -1.828125,0 -3.234375,-0.71875 Q 10.95,30.546873 9.79375,29.015623 v 2.53125 H 4.1999998 V 7.2343731 H 9.79375 Z" />
+            <path
+               inkscape:connector-curvature="0"
+               id="path4686"
+               style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';fill:#214478"
+               d="m 27.1375,14.046873 h 5.59375 v 17.5 H 27.1375 Z m 0,-6.8124999 h 5.59375 V 11.796873 H 27.1375 Z" />
+            <path
+               inkscape:connector-curvature="0"
+               id="path4688"
+               style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';fill:#214478"
+               d="m 46.465625,17.624998 q -1.859375,0 -2.84375,1.34375 -0.96875,1.328125 -0.96875,3.84375 0,2.515625 0.96875,3.859375 0.984375,1.328125 2.84375,1.328125 1.828125,0 2.796875,-1.328125 0.96875,-1.34375 0.96875,-3.859375 0,-2.515625 -0.96875,-3.84375 -0.96875,-1.34375 -2.796875,-1.34375 z m 0,-4 q 4.515625,0 7.046875,2.4375 2.546875,2.4375 2.546875,6.75 0,4.3125 -2.546875,6.75 -2.53125,2.4375 -7.046875,2.4375 -4.53125,0 -7.09375,-2.4375 -2.546875,-2.4375 -2.546875,-6.75 0,-4.3125 2.546875,-6.75 2.5625,-2.4375 7.09375,-2.4375 z" />
+            <path
+               inkscape:connector-curvature="0"
+               id="path4690"
+               style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';fill:#214478"
+               d="M 66.246875,9.0781231 V 14.046873 H 72.0125 v 4 h -5.765625 v 7.421875 q 0,1.21875 0.484375,1.65625 0.484375,0.421875 1.921875,0.421875 h 2.875 v 4 H 66.73125 q -3.3125,0 -4.703125,-1.375 -1.375,-1.390625 -1.375,-4.703125 v -7.421875 h -2.78125 v -4 h 2.78125 V 9.0781231 Z" />
+            <path
+               inkscape:connector-curvature="0"
+               id="path4692"
+               style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';fill:#214478"
+               d="m 83.29375,23.671873 q -1.75,0 -2.640625,0.59375 -0.875,0.59375 -0.875,1.75 0,1.0625 0.703125,1.671875 0.71875,0.59375 1.984375,0.59375 1.578125,0 2.65625,-1.125 Q 86.2,26.015623 86.2,24.312498 v -0.640625 z m 8.546875,-2.109375 v 9.984375 H 86.2 v -2.59375 q -1.125,1.59375 -2.53125,2.328125 -1.40625,0.71875 -3.421875,0.71875 -2.71875,0 -4.421875,-1.578125 -1.6875,-1.59375 -1.6875,-4.125 0,-3.078125 2.109375,-4.515625 2.125,-1.4375 6.65625,-1.4375 H 86.2 v -0.4375 q 0,-1.328125 -1.046875,-1.9375 -1.046875,-0.625 -3.265625,-0.625 -1.796875,0 -3.34375,0.359375 -1.546875,0.359375 -2.875,1.078125 v -4.265625 q 1.796875,-0.4375 3.609375,-0.65625 1.8125,-0.234375 3.625,-0.234375 4.734375,0 6.828125,1.875 2.109375,1.859375 2.109375,6.0625 z" />
+          </g>
+          <path
+             d="m 115.01625,16.609375 v -9.375 h 5.625 v 24.3125 h -5.625 v -2.53125 Q 113.86,30.5625 112.46938,31.28125 111.07875,32 109.25063,32 q -3.23438,0 -5.3125,-2.5625 -2.07813,-2.578125 -2.07813,-6.625 0,-4.046875 2.07813,-6.609375 2.07812,-2.578125 5.3125,-2.578125 1.8125,0 3.20312,0.734375 1.40625,0.71875 2.5625,2.25 z m -3.6875,11.328125 q 1.79688,0 2.73438,-1.3125 0.95312,-1.3125 0.95312,-3.8125 0,-2.5 -0.95312,-3.8125 -0.9375,-1.3125 -2.73438,-1.3125 -1.78125,0 -2.73437,1.3125 -0.9375,1.3125 -0.9375,3.8125 0,2.5 0.9375,3.8125 0.95312,1.3125 2.73437,1.3125 z"
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:medium;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1"
+             id="path4695"
+             inkscape:connector-curvature="0"
+             inkscape:export-xdpi="96"
+             inkscape:export-ydpi="96" />
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>
