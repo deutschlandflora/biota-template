@@ -38,6 +38,7 @@ regions:
   second_footer_second: 'Second Footer Second Widget'
   second_footer_third: 'Second Footer Third Widget'
   second_footer_fourth: 'Second Footer Fourth Widget'
+  second_second_footer: 'Second Second Footer'
   startpage_map: 'Startpage Map'
   auto_hidden_block: 'Auto hidden blocks'
 # Information added by Drupal.org packaging script on 2018-11-08
