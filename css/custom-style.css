@@ -84,8 +84,8 @@ ul.links.inline li{
   margin-right: 5px;
   margin-bottom: 5px;
   z-index: 1;
-  max-width: 120px;
-  transform: rotate(8deg);
+  max-width: 120px!important;
+  transform: rotate(8deg)!important;
 }
 
 .region-header .brand{
