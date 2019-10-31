@@ -180,6 +180,23 @@ div.region.region-bottom-fourth {border-radius: 4px;}
   color: #FFF;
 }
 
+/*third-footerwidget*/
+
+.third-footerwidget{
+  background: #7db15ee3;
+  color: #D0D0D0;
+  padding: 10px 0;
+}
+
+/*counter-bottom*/
+
+.counter-bottom{
+  background: #7db15ee3;
+  color: #D0D0D0;
+  padding: 10px 0;
+}
+
+
 /*bottom-widgets*/
 
 .bottom-widgets{
