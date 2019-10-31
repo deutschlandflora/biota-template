@@ -714,7 +714,15 @@ table.cols-6.sticky-enabled{width: 100%;}
 	border-radius:50%;
 }
 .counter-bo-green{
+	border: solid 7px #3da435;
+	background: #fff;
+}
+.counter-bo-cyan{
 	border: solid 7px #078D92;
+	background: #fff;
+}
+.counter-bo-red{
+	border: solid 7px #bd1622;
 	background: #fff;
 }
 .counter-text{
