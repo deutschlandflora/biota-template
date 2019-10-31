@@ -230,8 +230,21 @@
 <!-- End layout -->
 
 
-
-
+<!-- start: Counter Bottom -->
+{% if page.counter_bottom %}
+  <div class="counter_bottom">
+    <div class="container">
+      <div class="row">
+	     <div class="col-sm-12 col-md-12">
+         {% if page.counter_bottom %}
+            {{ page.counter_bottom }}
+          {% endif %}
+       </div>
+      </div>
+    </div>
+  </div>
+{% endif %}
+<!--End Counter Bottom -->
 
 
 <!-- Start bottom -->
@@ -412,7 +425,7 @@
 
 <!-- start: third Footerwidget -->
 {% if page.third_footerwidget %}
-  <div class="third_footerwidget">
+  <div class="third-footerwidget">
     <div class="container">
       <div class="row">
 	     <div class="col-sm-12 col-md-12">
