@@ -689,3 +689,19 @@ table.cols-6.sticky-enabled{width: 100%;}
     border: 1px solid #DDD;
     border-top: 0;
 }
+/*counter*/
+.counter {
+	padding:8%; 
+	max-width:200px; 
+	max-height:200px; 
+	border-radius:50%
+}
+.counter-bo-green{
+	border: solid 7px #078D92;
+	background: #fff
+}
+.counter-text{
+	margin-top:10%; 
+	text-align:center;
+}
+
