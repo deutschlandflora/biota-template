@@ -725,6 +725,10 @@ table.cols-6.sticky-enabled{width: 100%;}
 	border: solid 7px #bd1622;
 	background: #fff;
 }
+.counter img{
+	transform: rotate(8deg)!important;
+	filter: hue-rotate(25deg) brightness(80%);
+}
 .counter-text{
 	margin-top:10%; 
 	text-align:center;
